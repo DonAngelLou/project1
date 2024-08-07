@@ -1,10 +1,6 @@
-Sure, here's a well-constructed `README.md` for your project:
+# Project1
 
----
-
-# Profit Pioneer
-
-Welcome to Profit Pioneer, a sleek and modern web application built with Next.js, Tailwind CSS, and @shadcn/ui components. This application showcases a company profile with essential details, contact information, and services offered.
+Welcome to my Project1, a sleek and modern mobile web application built with Next.js, Tailwind CSS, and @shadcn/ui components. This application showcases a company profile with essential details, contact information, and services offered.
 
 ## Table of Contents
 
@@ -108,8 +104,4 @@ For any questions or feedback, please reach out to:
 
 - **Hussain Watkins**
   - Email: [louiesalvatierra16@gmail.com](mailto:louiesalvatierra16@gmail.com)
-  
 
----
-
-Feel free to customize this `README.md` file further to better suit your project's needs.
